@@ -79,3 +79,8 @@ Si te gusta la carne. la gastronomía argentina se va a convertir en una de tus 
 ### Choripan con chimichurri
 ### Lomo asado con papas
 ### Alfajores de dulce de leche
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
