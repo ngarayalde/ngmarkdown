@@ -13,7 +13,6 @@ Por sabrosa, por saludable, por tradicional, por creativa, por variada, porque s
 ## Gastronomía italiana
 Ya no vas a tener que ir a Roma, Venecia o Milán para degustar una riquísima pizza. Aprende a hacer la perfecta masa con la que dejar a tus familiares con la boca abierta. Y no te olvides de la pasta ni del tiramisú. 
 ![Imagen de gastronomía italiana](https://media.istockphoto.com/id/1220017909/pt/foto/top-view-table-full-of-food.jpg?s=612x612&w=0&k=20&c=qkaNTH_k1CxBJQ-KVVa1_eGG4-J5eqaOkk3oyEbSRk8=)
-### Tortilla de patatas
 ### Pizza margarita
 ### Pasta carbonara
 ### Risotto 
@@ -79,6 +78,45 @@ Si te gusta la carne. la gastronomía argentina se va a convertir en una de tus 
 ### Choripan con chimichurri
 ### Lomo asado con papas
 ### Alfajores de dulce de leche
+
+## Listado de recetas
+- [x] Tortilla de patatas
+- [x] Cocido madrileño
+- [ ] Gazpacho
+- [x] Tarta de queso
+- [x] Pizza margarita
+- [x] Pasta carbonara
+- [ ] Risotto 
+- [x] Tiramisú
+- [ ] Caldeirada
+- [ ] Pataniscas
+- [x] Pastelillos de belém
+- [x] Hummus de garbanzos
+- [ ] Tajine de verduras y cordero
+- [x] Cuscús con pollo
+- [ ] Galletas rellenas de dátiles
+- [x] Nachos con guacamole
+- [x] Quesadillas
+- [x] Tacos al pastor
+- [ ] Flan de queso con cajeta
+- [x] Pad Thai
+- [ ] Khaw Soi
+- [ ] Tom Kha Kai
+- [ ] Tempura de verduras
+- [ ] Sushi
+- [x] Pollo teriyaki
+- [ ] Dorayakis
+- [x] Arroz tres delicias
+- [x] Rollitos de primavera
+- [ ] Cerdo agridulce
+- [x] Hamburguesa
+- [x] Costillas con salsa barbacoa
+- [ ] Pancakes
+- [x] Empanadillas criollas
+- [x] Choripan con chimichurri
+- [ ] Lomo asado con papas
+- [x] Alfajores de dulce de leche
+
 
 ```
 $ git init
